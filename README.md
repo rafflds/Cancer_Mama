@@ -1,4 +1,4 @@
-git init# Breast Cancer Data Analysis Project
+# Breast Cancer Data Analysis Project
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg?logo=python)](https://www.python.org/downloads/)
 [![tkinter](https://img.shields.io/badge/tkinter-GUI-orange.svg?logo=python)](https://docs.python.org/3/library/tkinter.html)
